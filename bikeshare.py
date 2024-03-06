@@ -7,6 +7,7 @@ import time
 
 def get_city():
     '''Asks the user for a city and returns the filename for that city's bike share data.
+    We have three cities excel files
 
     Args:
         none.
