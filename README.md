@@ -34,3 +34,4 @@ The script answers the following questions about the bike share data:
 * Prepared by Mariam Elmasry
 * Title: Session Lead
 * Course Name: Udacity Python Programming Nanodegree
+* LinkedIn: www.linkedin.com/in/mariam-elmasry-/
