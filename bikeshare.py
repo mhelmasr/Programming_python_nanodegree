@@ -381,6 +381,6 @@ def statistics():
     if restart.lower() == 'yes':
         statistics()
 
-
+# To run and display results
 if __name__ == "__main__":
 	statistics()
